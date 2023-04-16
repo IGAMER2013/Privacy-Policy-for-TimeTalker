@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - TimeTalker AI</title>
+</head>
+<body>
+    <h1>Privacy Policy - TimeTalker AI</h1>
+    <h2>Terms of Use</h2>
+    <p>
+        Last updated: 22/03/2023 This Privacy Policy describes how TimeTalker AI ("we," "us," or "our") collects, 
+        uses, and discloses information from users of our mobile application (the "App"). 
+        By using the App, you agree to the collection and use of information in accordance with this Privacy Policy. 
+        Information Collection and Use TimeTalker AI uses third-party services, Google AdMob and OpenAI's GPT-3, 
+        for advertising and artificial intelligence services, respectively. Google AdMob: We use Google AdMob to 
+        display ads within our App. Google AdMob may collect information about you, such as your advertising identifier, 
+        IP address, and device information, to serve personalized ads. You can learn more about how Google uses your information and 
+        how to opt out of personalized ads by visiting Google's Privacy Policy at https://policies.google.com/privacy. OpenAI's GPT-3: 
+        The App uses OpenAI's GPT-3 API to provide realistic conversations with historical characters. When you interact with the AI characters 
+        in our App, the text you enter is sent to the GPT-3 API to generate responses. OpenAI may store and process this data 
+        in accordance with their privacy policy, which can be found at https://platform.openai.com/docs/privacy-policy. 
+        We do not collect, store, or share any personally identifiable information about you, such as your name, email address, 
+        or phone number, through the App. Changes to This Privacy Policy We may update our Privacy Policy from time to time. 
+        You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when 
+        they are posted on this page. Contact Us If you have any questions or concerns about this Privacy Policy, please contact us 
+        at timetalkerai@gmail.com
+
+    </p>
+</body>
+</html>
